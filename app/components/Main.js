@@ -6,7 +6,7 @@ const Main = React.createClass({
 		return(
 				<div className="main">
 					<h1>
-						<Link to="/">Hola puto</Link>
+						<Link to="/">Hola prro!</Link>
 					</h1>
 				</div>
 			)
